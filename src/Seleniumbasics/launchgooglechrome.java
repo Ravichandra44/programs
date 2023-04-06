@@ -9,5 +9,6 @@ public class launchgooglechrome {
         WebDriver driver = new ChromeDriver();
         driver.get("http://google.co.in");
 
+
     }
 }
