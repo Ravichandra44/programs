@@ -8,5 +8,6 @@ public class launchgooglechrome {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\L E N O V O\\IdeaProjects\\programs\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("http://google.co.in");
+
     }
 }
